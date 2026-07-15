@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of Sussex, 2019
+* PGCert in Intellectual Property Law, Queen Mary University of London, 2013
+* M.Sci. in Natural Sciences (Experimental & Theoretical Physics), University of Cambridge, 2012
+* M.A.(Cantab) in Natural Sciences, University of Cambridge, 2012
 
-Work experience
+Postdoctoral experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2019 - August 2026:
+  * Williams College
+  * Precision laser spectroscopy in heavy, multivalence atoms
   
 Skills
 ======
