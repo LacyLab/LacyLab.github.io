@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Dr. John H. Lacy"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Assistant Professor"
+  location         : "Greenville, South Carolina"
   employer         : "Furman University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "john.lacy@furman.edu" 
 
   # Academic websites
   academia         : # URL
