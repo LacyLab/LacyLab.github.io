@@ -19,7 +19,7 @@ Education
 Postdoctoral experience
 ======
 * November 2019 - August 2026:
-  * Williams College (Precision laser spectroscopy in heavy, multivalence atoms)
+  * Williams College
   
 Skills
 ======
