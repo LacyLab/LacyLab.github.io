@@ -12,24 +12,22 @@ redirect_from:
 Education
 ======
 * Ph.D in Physics, University of Sussex, 2019
-* PGCert in Intellectual Property Law, Queen Mary University of London, 2013
+* P.G.Cert in Intellectual Property Law, Queen Mary University of London, 2013
 * M.Sci. in Natural Sciences (Experimental & Theoretical Physics), University of Cambridge, 2012
 * M.A.(Cantab) in Natural Sciences, University of Cambridge, 2012
 
 Postdoctoral experience
 ======
 * November 2019 - August 2026:
-  * Williams College
-  * Precision laser spectroscopy in heavy, multivalence atoms
+  * Williams College (Precision laser spectroscopy in heavy, multivalence atoms)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Laser Spectroscopy of Atoms
+* Precision Measurement
+* Quantum Sensing
+* Applied Superconductivity
+* High-Tc Superconducting Magnet Technology
 
 Publications
 ======
